@@ -13,7 +13,7 @@ A structured interview preparation repository for **SDE-3, Principal Engineer, V
 - Morgan Stanley
 - Mastercard
 - Kotak Mahindra Bank
-- Barclays VP Internal Roles
+- VP Internal Roles
 - Remote Senior Java Roles (Europe, Singapore, Australia)
 
 ---
