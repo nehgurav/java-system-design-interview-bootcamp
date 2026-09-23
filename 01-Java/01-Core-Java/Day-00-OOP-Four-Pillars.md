@@ -268,9 +268,9 @@ No runtime dispatch.
 
 ---
 
-# Production Scenario (Barclays)
+# Production Scenario 
 
-EMM Payment API:
+ Payment API:
 
 - PaymentProcessor interface.
 - CardPaymentProcessor implementation.
