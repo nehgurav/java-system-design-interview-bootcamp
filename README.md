@@ -24,7 +24,7 @@ A structured interview preparation repository for **SDE-3, Principal Engineer, V
 |--------|--------|
 | Module 1 — Core Java | 🟢 In Progress |
 | Module 2 — JVM Internals | ⏳ Planned |
-| Module 3 — Concurrency | ⏳ Planned |
+| Module 3 — Concurrency | 🟢 In Progress |
 | Module 4 — Spring Boot | ⏳ Planned |
 | Module 5 — Microservices | ⏳ Planned |
 | Module 6 — Kafka & Redis | ⏳ Planned |
@@ -56,6 +56,7 @@ Neha-Interview-Bootcamp-2026/
 │   │
 │   ├── 02-JVM/
 │   ├── 03-Concurrency/
+│   │   └── Day-01-ConcurrentHashMap.md
 │   └── 04-Java21/
 │
 ├── 02-SpringBoot/
