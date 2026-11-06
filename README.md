@@ -75,7 +75,7 @@ Neha-Interview-Bootcamp-2026/
 |-----|-------|--------|
 | Day 00 | OOP Four Pillars | ✅ |
 | Day 01 | equals(), hashCode(), String Immutability | ✅ |
-| Day 02 | HashMap Internals | ⏳ |
+| Day 02 | HashMap Internals | ⏳ |\n| Concurrency | ConcurrentHashMap, Synchronization, Locks, Thread Pools, CompletableFuture | ✅ |
 
 ---
 
